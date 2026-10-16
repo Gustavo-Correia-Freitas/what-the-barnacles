@@ -1,13 +1,9 @@
 <?php
 
-// Serve para a conexão, professor.
-
 $host  = 'localhost';   
 $banco = 'biblioteca';  
 $user  = 'root';        
 $senha = '';
-
-//Cada "$" serve como um conector que leva para outras partes do código.
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$banco;charset=utf8mb4", $user, $senha);

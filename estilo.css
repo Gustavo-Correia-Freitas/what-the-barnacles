@@ -2,22 +2,23 @@
 body { margin: 0; font-family: system-ui, Arial, sans-serif; background: #F4F6F8; color: #1F2937; }
 header { background: #0F172A; color: #FFF; padding: 16px 24px; display: flex; flex-wrap: wrap; gap: 16px; align-items: center; justify-content: space-between; }
 header h1 { margin: 0; font-size: 22px; }
-nav a { color: #7DD3FC; margin-left: 16px; text-decoration: none; font-weight: 600; }
+nav a { color: #7dfcde; margin-left: 16px; text-decoration: none; font-weight: 600; }
 main { max-width: 1000px; margin: 24px auto; padding: 0 16px; }
 table { width: 100%; border-collapse: collapse; background: #FFF; border-radius: 8px; overflow: hidden; }
 th, td { padding: 10px 12px; border-bottom: 1px solid #E5E7EB; text-align: left; }
 th { background: #E0F2FE; }
 .acoes { display: flex; gap: 8px; align-items: center; }
 .acoes form { margin: 0; }
-button { background: #0284C7; color: #FFF; border: 0; border-radius: 6px; padding: 8px 14px; cursor: pointer; font-weight: 600; }
+button { background: #02c74a; color: #FFF; border: 0; border-radius: 6px; padding: 8px 14px; cursor: pointer; font-weight: 600; }
 button.perigo { background: #DC2626; }
-a { color: #0369A1; }
+a { color: #03a16f; }
 input, select { padding: 8px 10px; border: 1px solid #CBD5E1; border-radius: 6px; font: inherit; }
 .busca, .linha { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
 .busca input { flex: 1; min-width: 200px; }
 .ficha { display: grid; gap: 12px; max-width: 460px; background: #FFF; padding: 20px; border-radius: 8px; }
 .ficha label { display: grid; gap: 4px; font-weight: 600; }
-.aviso { background: #DCFCE7; border: 1px solid #86EFAC; padding: 10px 14px; border-radius: 6px; }
+.aviso { background: #DCFCE7; border: 1px solid #018b33; padding: 10px 14px; border-radius: 6px; }
 .total { color: #64748B; }
 footer { text-align: center; color: #94A3B8; padding: 24px; font-size: 14px; }
 
+/* Eu sou extremamente maligno e troquei todas as cores para VERDE!!!! */
