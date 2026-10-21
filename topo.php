@@ -13,6 +13,8 @@
     <a href="index.php">Livros</a>
     <a href="novo.php">Novo livro</a>
     <a href="emprestimos.php">Empréstimos</a>
+    <a href="addaluno.php">Alunos</a>
+    <a href="alunos.php">Novo aluno</a>
   </nav>
 </header>
 <main>
